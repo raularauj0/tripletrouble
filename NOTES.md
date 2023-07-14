@@ -16,3 +16,16 @@ Note: You can expect all of the inputs to be the same length.
 - make prod code pass in the test
 
 - 'when parameter is aa bb cc return abcabc'
+- make prod code pass in the test
+
+## pomodoro 2
+
+- 'when parameter one1 aa return a'
+- create prod code pass in the test
+- refactor the code
+
+## pomodoro 3
+-'should return the reagroup string "abcabc" when parameters is the same'
+- create prod code pass in the test
+
+-should return the reagroup string "" when parameters are diferent
