@@ -20,7 +20,7 @@ Note: You can expect all of the inputs to be the same length.
 
 ## pomodoro 2
 
-- 'when parameter one1 aa return a'
+- 'when parameter one aa return a'
 - create prod code pass in the test
 - refactor the code
 

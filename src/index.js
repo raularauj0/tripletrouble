@@ -1,12 +1,5 @@
 function reagroup (one, two, three){
     
-//  if ( one === 'abc' && two === 'abc' && three === 'abc' ){
-//     return 'aaabbbccc'
-//  }
-//  if ( one === 'aa' && two === 'bb' && three === 'cc' ){
-//     return one + two + three
-//  }
- 
 let i = 0
 let texto = ""
  while (i < one.length ){
